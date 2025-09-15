@@ -1,1 +1,4 @@
-<img src="https://raw.githubusercontent.com/loadingio/loading.io/master/assets/img/pacman.svg" width="200"/>
+
+<p align="center">
+  <img src="./assets/habbo-lobby.gif" width="300" alt="Habbo Lobby"/>
+</p>
