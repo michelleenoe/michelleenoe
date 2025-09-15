@@ -1,2 +1,1 @@
-## 
-![Pac-Man](https://media.giphy.com/media/TjAcxImn74uoDYFj6i/giphy.gif)
+<img src="https://raw.githubusercontent.com/loadingio/loading.io/master/assets/img/pacman.svg" width="200"/>
